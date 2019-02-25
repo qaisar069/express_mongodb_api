@@ -1,0 +1,21 @@
+{
+  "name": "express-api-latest",
+  "version": "1.0.0",
+  "description": "express api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "qaisar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15",
+    "nodemon": "^1.18.10"
+  }
+}
